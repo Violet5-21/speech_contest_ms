@@ -1,0 +1,3 @@
+D:/E_copy/C++/speech_contest_ms/cmake-build-debug/CMakeFiles/speech_contest_ms.dir
+D:/E_copy/C++/speech_contest_ms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/E_copy/C++/speech_contest_ms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
